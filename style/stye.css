@@ -41,7 +41,7 @@ body{
 }
 .cabesalho > h1{
     color: rgb(255, 255, 255);
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrao);
     margin-bottom: 20px;
     text-shadow:2px 2px 0px black;
 }
